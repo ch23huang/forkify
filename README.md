@@ -4,7 +4,7 @@ March 26, 2019
 Christina Huang
 
 Forkify is a project from my Udemy Javascript course.
-This application serves as a recipe finder and has the ability transfer ingredients into a shopping cart, 
+This application serves as a recipe finder and has the ability to transfer ingredients into a shopping cart, 
 to change servings within the recipe and the shopping cart, and has a “like” list. 
 
 Some additional functionality I’ve added includes: a message asking the user if they’d like to delete an item
